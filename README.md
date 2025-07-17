@@ -11,11 +11,11 @@ A simple and clean Pomodoro Timer web app used helps you to be focused and produ
 This is how the website looks like...
 [![Screenshot](https://github.com/user-attachments/assets/3ef6b710-e93f-47c5-a093-8a6e557f740e)](https://github.com/user-attachments/assets/3ef6b710-e93f-47c5-a093-8a6e557f740e)
 
-##Tech stack
+## Tech stack
 -HTML
 -CSS
 -JavaScript
 
-##The Pomodoro Technique
+## The Pomodoro Technique
 The Pomodoro Technique is a time management method where you focus for **25 minutes**, then take a **short break**, and repeat.
 
